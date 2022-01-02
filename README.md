@@ -1,2 +1,2 @@
 # phpscanner
-php with scanner OR Code
+php with scanner QR Code
